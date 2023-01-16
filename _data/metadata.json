@@ -4,7 +4,7 @@
   "domain": "thesouthkoreatravelguide.com",
   "description": "Your travel guide for south korea. Find and compare places in south korea by price, popularity, reviews and rating.",
   "genre": "Travel Guide",
-  "googleAnalyticsId": "update me",
+  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
   "feed": {
     "subtitle": "SouthKorea Travel.",
