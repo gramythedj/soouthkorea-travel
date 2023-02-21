@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 title: Posts
 templateClass: tmpl-post
+permalink: /blogposts/
 eleventyNavigation:
   key: Posts
   order: 2
